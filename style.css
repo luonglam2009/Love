@@ -1,7 +1,7 @@
 body {
       margin: 0;
       padding: 0;
-      background: #e096af;
+      background: #fab5cc;
       font-family: 'Segoe UI', sans-serif;
       text-align: center;
       overflow: hidden;
@@ -94,4 +94,3 @@ body {
             transform: translate(var(--x), var(--y)) scale(1.8);
         }
 }
-
